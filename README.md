@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siddharthwarule
-- 👀 I’m interested in full stack devlopment 
-- 🌱 I’m currently learning spring boot
+- 👀 I’m interested in full stack Web devlopment in Angular with NodeJs and SpringBoot
+- 🌱 I’m well in Angular currently learning nodejs and spring-boot 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
